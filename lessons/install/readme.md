@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I've installed Python 3 because it's the recommended version by Metis.
 
 ### Q2. Which Python Version Installed   
 
